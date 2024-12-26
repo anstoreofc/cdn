@@ -1,34 +1,34 @@
 {
-  "token_pln": {
-    "judul": "Token PLN Prabayar",
-    "data": [
-      { "kode": "PLN5", "produk": "Token PLN 5.000", "harga": "8.000" },
-      { "kode": "PLN10", "produk": "Token PLN 10.000", "harga": "13.000" },
-      { "kode": "PLN15", "produk": "Token PLN 15.000", "harga": "18.000" }
-    ]
-  },
-  "pulsa_axis": {
-    "judul": "Pulsa Axis",
-    "data": [
-      { "kode": "AX5", "produk": "Pulsa Axis 5.000", "harga": "7.000" },
-      { "kode": "AX10", "produk": "Pulsa Axis 10.000", "harga": "12.000" },
-      { "kode": "AX20", "produk": "Pulsa Axis 20.000", "harga": "22.000" }
-    ]
-  },
-  "pulsa_xl": {
-    "judul": "Pulsa XL",
-    "data": [
-      { "kode": "XL5", "produk": "Pulsa XL 5.000", "harga": "7.500" },
-      { "kode": "XL10", "produk": "Pulsa XL 10.000", "harga": "12.500" },
-      { "kode": "XL20", "produk": "Pulsa XL 20.000", "harga": "22.500" }
-    ]
-  },
-  "pulsa_indosat": {
-    "judul": "Pulsa Indosat",
-    "data": [
-      { "kode": "IS5", "produk": "Pulsa Indosat 5.000", "harga": "7.200" },
-      { "kode": "IS10", "produk": "Pulsa Indosat 10.000", "harga": "12.200" },
-      { "kode": "IS20", "produk": "Pulsa Indosat 20.000", "harga": "22.200" }
-    ]
-  }
+    "token_pln": {
+        "judul": "Daftar Harga Token PLN",
+        "data": [
+            { "kode": "PLN20", "produk": "Token PLN 20.000", "harga": "Rp 21.000" },
+            { "kode": "PLN50", "produk": "Token PLN 50.000", "harga": "Rp 51.000" },
+            { "kode": "PLN100", "produk": "Token PLN 100.000", "harga": "Rp 101.000" }
+        ]
+    },
+    "pulsa_axis": {
+        "judul": "Daftar Harga Pulsa Axis",
+        "data": [
+            { "kode": "AX10", "produk": "Pulsa Axis 10.000", "harga": "Rp 10.500" },
+            { "kode": "AX25", "produk": "Pulsa Axis 25.000", "harga": "Rp 25.500" },
+            { "kode": "AX50", "produk": "Pulsa Axis 50.000", "harga": "Rp 50.500" }
+        ]
+    },
+    "pulsa_xl": {
+        "judul": "Daftar Harga Pulsa XL",
+        "data": [
+            { "kode": "XL10", "produk": "Pulsa XL 10.000", "harga": "Rp 10.000" },
+            { "kode": "XL25", "produk": "Pulsa XL 25.000", "harga": "Rp 25.000" },
+            { "kode": "XL50", "produk": "Pulsa XL 50.000", "harga": "Rp 50.000" }
+        ]
+    },
+    "pulsa_indosat": {
+        "judul": "Daftar Harga Pulsa Indosat",
+        "data": [
+            { "kode": "IND10", "produk": "Pulsa Indosat 10.000", "harga": "Rp 10.000" },
+            { "kode": "IND25", "produk": "Pulsa Indosat 25.000", "harga": "Rp 25.000" },
+            { "kode": "IND50", "produk": "Pulsa Indosat 50.000", "harga": "Rp 50.000" }
+        ]
+    }
 }
