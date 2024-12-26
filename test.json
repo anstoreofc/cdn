@@ -179,7 +179,7 @@
             { "kode": "T150", "produk": "Three 150.000", "harga": "152.000" },
             { "kode": "T200", "produk": "Three 200.000", "harga": "202.000" }
         ]
-    }
+    },
     "dana": {
         "judul":"Daftar Harga Top Up Saldo DANA",
         "data": [
