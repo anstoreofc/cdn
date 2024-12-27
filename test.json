@@ -274,5 +274,37 @@
             { "kode": "OVO150", "produk": "OVO 150.000", "harga": "152.000" },
             { "kode": "OVO200", "produk": "OVO 200.000", "harga": "202.000" }
         ]
+    },
+    "linkaja": {
+        "judul":"Daftar Harga Top Up Saldo LinkAja",
+        "data": [
+            { "kode": "LINK1", "produk": "LinkAja 1.000", "harga": "2.000" },
+            { "kode": "LINK2", "produk": "LinkAja 2.000", "harga": "4.000" },
+            { "kode": "LINK3", "produk": "LinkAja 3.000", "harga": "5.000" },
+            { "kode": "LINK4", "produk": "LinkAja 4.000", "harga": "6.000" },
+            { "kode": "LINK5", "produk": "LinkAja 5.000", "harga": "7.000" },
+            { "kode": "LINK10", "produk": "LinkAja 10.000", "harga": "12.000" },
+            { "kode": "LINK15", "produk": "LinkAja 15.000", "harga": "17.000" },
+            { "kode": "LINK20", "produk": "LinkAja 20.000", "harga": "22.000" },
+            { "kode": "LINK25", "produk": "LinkAja 25.000", "harga": "27.000" },
+            { "kode": "LINK30", "produk": "LinkAja 30.000", "harga": "32.000" },
+            { "kode": "LINK35", "produk": "LinkAja 35.000", "harga": "37.000" },
+            { "kode": "LINK40", "produk": "LinkAja 40.000", "harga": "42.000" },
+            { "kode": "LINK45", "produk": "LinkAja 45.000", "harga": "47.000" },
+            { "kode": "LINK50", "produk": "LinkAja 50.000", "harga": "52.000" },
+            { "kode": "LINK55", "produk": "LinkAja 55.000", "harga": "57.000" },
+            { "kode": "LINK60", "produk": "LinkAja 60.000", "harga": "62.000" },
+            { "kode": "LINK65", "produk": "LinkAja 65.000", "harga": "67.000" },
+            { "kode": "LINK70", "produk": "LinkAja 70.000", "harga": "72.000" },
+            { "kode": "LINK75", "produk": "LinkAja 75.000", "harga": "77.000" },
+            { "kode": "LINK80", "produk": "LinkAja 80.000", "harga": "82.000" },
+            { "kode": "LINK85", "produk": "LinkAja 85.000", "harga": "87.000" },
+            { "kode": "LINK90", "produk": "LinkAja 90.000", "harga": "92.000" },
+            { "kode": "LINK95", "produk": "LinkAja 95.000", "harga": "97.000" },
+            { "kode": "LINK100", "produk": "LinkAja 100.000", "harga": "102.000" },
+            { "kode": "LINK125", "produk": "LinkAja 125.000", "harga": "127.000" },
+            { "kode": "LINK150", "produk": "LinkAja 150.000", "harga": "152.000" },
+            { "kode": "LINK200", "produk": "LinkAja 200.000", "harga": "202.000" }
+        ]
     }
 }
