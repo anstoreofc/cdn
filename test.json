@@ -212,7 +212,7 @@
             { "kode": "D200", "produk": "Dana 200.000", "harga": "202.000" }
         ]
     },
-    "gopay": {
+    "ovo": {
         "judul":"Daftar Harga Top Up Saldo Gopay",
         "data": [
             { "kode": "GP1", "produk": "Gopay 1.000", "harga": "2.000" },
