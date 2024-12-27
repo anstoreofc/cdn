@@ -371,5 +371,15 @@
             { "kode": "BYUC30", "produk": "Kuota by.U Unlimited 2 Mbps 30 Hari", "harga": "155.000" }
             
         ]
+    },
+    "indosat_freedom_unlimited": {
+        "judul":"Daftar Harga Indosat Freedom Unlimited",
+        "data": [
+            { "kode": "IDU1", "produk": "Kuota Indosat Freedom Unlimited 1 GB + Bonus 30 Hari", "harga": "35.000" },
+            { "kode": "IDU2", "produk": "Kuota Indosat Freedom Unlimited 2 GB +  Bonus 30 Hari", "harga": "56.000" },
+            { "kode": "IDU3", "produk": "Kuota Indosat Freedom Unlimited 3 GB +  Bonus 30 Hari", "harga": "80.000" },
+            { "kode": "IDU7", "produk": "Kuota Indosat Freedom Unlimited 7 GB +  Bonus 30 Hari", "harga": "103.000" }
+            
+        ]
     }
 }
