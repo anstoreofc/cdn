@@ -158,7 +158,7 @@
             { "kode": "TSEL200", "produk": "Telkomsel 200.000", "harga": "202.000" }
         ]
     },
-    "pulsa_three": {
+    "pulsa_tri": {
         "judul":"Daftar Harga Pulsa Three",
         "data": [
             { "kode": "T5", "produk": "Three 5.000", "harga": "7.000" },
