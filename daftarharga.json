@@ -362,5 +362,14 @@
             { "kode": "BYU20", "produk": "Kuota by.U 20 GB 30 HARI", "harga": "48.000" }
             
         ]
+    },
+    "byu_data_combo": {
+        "judul":"Daftar Harga by.U Data Combo",
+        "data": [
+            { "kode": "BYUC1", "produk": "Kuota by.U Unlimited 1 Mbps 1 Hari", "harga": "13.000" },
+            { "kode": "BYUC7", "produk": "Kuota by.U Unlimited 1.5 Mbps 7 Hari", "harga": "45.000" },
+            { "kode": "BYUC30", "produk": "Kuota by.U Unlimited 2 Mbps 30 Hari", "harga": "155.000" }
+            
+        ]
     }
 }
