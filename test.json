@@ -159,25 +159,25 @@
         ]
     },
     "pulsa_tri": {
-        "judul":"Daftar Harga Pulsa Three",
+        "judul":"Daftar Harga Pulsa Tri",
         "data": [
-            { "kode": "T5", "produk": "Three 5.000", "harga": "7.000" },
-            { "kode": "T10", "produk": "Three 10.000", "harga": "12.000" },
-            { "kode": "T15", "produk": "Three 15.000", "harga": "17.000" },
-            { "kode": "T20", "produk": "Three 20.000", "harga": "22.000" },
-            { "kode": "T25", "produk": "Three 25.000", "harga": "27.000" },
-            { "kode": "T30", "produk": "Three 30.000", "harga": "32.000" },
-            { "kode": "T40", "produk": "Three 40.000", "harga": "42.000" },
-            { "kode": "T50", "produk": "Three 50.000", "harga": "52.000" },
-            { "kode": "T60", "produk": "Three 60.000", "harga": "62.000" },
-            { "kode": "T70", "produk": "Three 70.000", "harga": "72.000" },
-            { "kode": "T75", "produk": "Three 75.000", "harga": "77.000" },
-            { "kode": "T80", "produk": "Three 80.000", "harga": "82.000" },
-            { "kode": "T90", "produk": "Three 90.000", "harga": "92.000" },
-            { "kode": "T100", "produk": "Three 100.000", "harga": "102.000" },
-            { "kode": "T125", "produk": "Three 125.000", "harga": "127.000" },
-            { "kode": "T150", "produk": "Three 150.000", "harga": "152.000" },
-            { "kode": "T200", "produk": "Three 200.000", "harga": "202.000" }
+            { "kode": "T5", "produk": "Tri 5.000", "harga": "7.000" },
+            { "kode": "T10", "produk": "Tri 10.000", "harga": "12.000" },
+            { "kode": "T15", "produk": "Tri 15.000", "harga": "17.000" },
+            { "kode": "T20", "produk": "Tri 20.000", "harga": "22.000" },
+            { "kode": "T25", "produk": "Tri 25.000", "harga": "27.000" },
+            { "kode": "T30", "produk": "Tri 30.000", "harga": "32.000" },
+            { "kode": "T40", "produk": "Tri 40.000", "harga": "42.000" },
+            { "kode": "T50", "produk": "Tri 50.000", "harga": "52.000" },
+            { "kode": "T60", "produk": "Tri 60.000", "harga": "62.000" },
+            { "kode": "T70", "produk": "Tri 70.000", "harga": "72.000" },
+            { "kode": "T75", "produk": "Tri 75.000", "harga": "77.000" },
+            { "kode": "T80", "produk": "Tri 80.000", "harga": "82.000" },
+            { "kode": "T90", "produk": "Tri 90.000", "harga": "92.000" },
+            { "kode": "T100", "produk": "Tri 100.000", "harga": "102.000" },
+            { "kode": "T125", "produk": "Tri 125.000", "harga": "127.000" },
+            { "kode": "T150", "produk": "Tri 150.000", "harga": "152.000" },
+            { "kode": "T200", "produk": "Tri 200.000", "harga": "202.000" }
         ]
     },
     "dana": {
@@ -210,6 +210,42 @@
             { "kode": "D125", "produk": "Dana 125.000", "harga": "127.000" },
             { "kode": "D150", "produk": "Dana 150.000", "harga": "152.000" },
             { "kode": "D200", "produk": "Dana 200.000", "harga": "202.000" }
+        ]
+    },
+    "gopay": {
+        "judul":"Daftar Harga Top Up Saldo Gopay",
+        "data": [
+            { "kode": "GP1", "produk": "Gopay 1.000", "harga": "2.000" },
+            { "kode": "GP2", "produk": "Gopay 2.000", "harga": "4.000" },
+            { "kode": "GP3", "produk": "Gopay 3.000", "harga": "5.000" },
+            { "kode": "GP4", "produk": "Gopay 4.000", "harga": "6.000" },
+            { "kode": "GP5", "produk": "Gopay 5.000", "harga": "7.000" },
+            { "kode": "GP6", "produk": "Gopay 6.000", "harga": "8.000" },
+            { "kode": "GP7", "produk": "Gopay 7.000", "harga": "9.000" },
+            { "kode": "GP8", "produk": "Gopay 8.000", "harga": "10.000" },
+            { "kode": "GP9", "produk": "Gopay 9.000", "harga": "11.000" },
+            { "kode": "GP10", "produk": "Gopay 10.000", "harga": "12.000" },
+            { "kode": "GP15", "produk": "Gopay 15.000", "harga": "17.000" },
+            { "kode": "GP20", "produk": "Gopay 20.000", "harga": "22.000" },
+            { "kode": "GP25", "produk": "Gopay 25.000", "harga": "27.000" },
+            { "kode": "GP30", "produk": "Gopay 30.000", "harga": "32.000" },
+            { "kode": "GP35", "produk": "Gopay 35.000", "harga": "37.000" },
+            { "kode": "GP40", "produk": "Gopay 40.000", "harga": "42.000" },
+            { "kode": "GP45", "produk": "Gopay 45.000", "harga": "47.000" },
+            { "kode": "GP50", "produk": "Gopay 50.000", "harga": "52.000" },
+            { "kode": "GP55", "produk": "Gopay 55.000", "harga": "57.000" },
+            { "kode": "GP60", "produk": "Gopay 60.000", "harga": "62.000" },
+            { "kode": "GP65", "produk": "Gopay 65.000", "harga": "67.000" },
+            { "kode": "GP70", "produk": "Gopay 70.000", "harga": "72.000" },
+            { "kode": "GP75", "produk": "Gopay 75.000", "harga": "77.000" },
+            { "kode": "GP80", "produk": "Gopay 80.000", "harga": "82.000" },
+            { "kode": "GP85", "produk": "Gopay 85.000", "harga": "87.000" },
+            { "kode": "GP90", "produk": "Gopay 90.000", "harga": "92.000" },
+            { "kode": "GP95", "produk": "Gopay 95.000", "harga": "97.000" },
+            { "kode": "GP100", "produk": "Gopay 100.000", "harga": "102.000" },
+            { "kode": "GP125", "produk": "Gopay 125.000", "harga": "127.000" },
+            { "kode": "GP150", "produk": "Gopay 150.000", "harga": "152.000" },
+            { "kode": "GP200", "produk": "Gopay 200.000", "harga": "202.000" }
         ]
     }
 }
