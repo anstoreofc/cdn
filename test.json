@@ -310,10 +310,10 @@
     "byu_data_harian": {
         "judul":"Daftar Harga by.U Data Harian",
         "data": [
-            { "kode": "BYU1GB1H", "produk": "Kuota by.U 1 GB 1 HARI", "harga": "6.000" },
-            { "kode": "BYU2GB3H", "produk": "Kuota by.U 2 GB 3 HARI", "harga": "10.000" },
-            { "kode": "BYU2.5GB5H", "produk": "Kuota by.U 2.5 GB 5 HARI", "harga": "13.000" },
-            { "kode": "BYU5GB7H", "produk": "Kuota by.U 5 GB 7 HARI", "harga": "20.000" }
+            { "kode": "BYU1H", "produk": "Kuota by.U 1 GB 1 HARI", "harga": "6.000" },
+            { "kode": "BYU3H", "produk": "Kuota by.U 2 GB 3 HARI", "harga": "10.000" },
+            { "kode": "BYU5H", "produk": "Kuota by.U 2.5 GB 5 HARI", "harga": "13.000" },
+            { "kode": "BYU7H", "produk": "Kuota by.U 5 GB 7 HARI", "harga": "20.000" }
             
         ]
     }
