@@ -247,5 +247,32 @@
             { "kode": "GP150", "produk": "Gopay 150.000", "harga": "152.000" },
             { "kode": "GP200", "produk": "Gopay 200.000", "harga": "202.000" }
         ]
+    },
+    "gopay": {
+        "judul": "Daftar Harga Top Up Saldo OVO",
+        "data": [
+            { "kode": "OVO10", "produk": "OVO 10.000", "harga": "12.000" },
+            { "kode": "OVO15", "produk": "OVO 15.000", "harga": "17.000" },
+            { "kode": "OVO20", "produk": "OVO 20.000", "harga": "22.000" },
+            { "kode": "OVO25", "produk": "OVO 25.000", "harga": "27.000" },
+            { "kode": "OVO30", "produk": "OVO 30.000", "harga": "32.000" },
+            { "kode": "OVO35", "produk": "OVO 35.000", "harga": "37.000" },
+            { "kode": "OVO40", "produk": "OVO 40.000", "harga": "42.000" },
+            { "kode": "OVO45", "produk": "OVO 45.000", "harga": "47.000" },
+            { "kode": "OVO50", "produk": "OVO 50.000", "harga": "52.000" },
+            { "kode": "OVO55", "produk": "OVO 55.000", "harga": "57.000" },
+            { "kode": "OVO60", "produk": "OVO 60.000", "harga": "62.000" },
+            { "kode": "OVO65", "produk": "OVO 65.000", "harga": "67.000" },
+            { "kode": "OVO70", "produk": "OVO 70.000", "harga": "72.000" },
+            { "kode": "OVO75", "produk": "OVO 75.000", "harga": "77.000" },
+            { "kode": "OVO80", "produk": "OVO 80.000", "harga": "82.000" },
+            { "kode": "OVO85", "produk": "OVO 85.000", "harga": "87.000" },
+            { "kode": "OVO90", "produk": "OVO 90.000", "harga": "92.000" },
+            { "kode": "OVO95", "produk": "OVO 95.000", "harga": "97.000" },
+            { "kode": "OVO100", "produk": "OVO 100.000", "harga": "102.000" },
+            { "kode": "OVO125", "produk": "OVO 125.000", "harga": "127.000" },
+            { "kode": "OVO150", "produk": "OVO 150.000", "harga": "152.000" },
+            { "kode": "OVO200", "produk": "OVO 200.000", "harga": "202.000" }
+        ]
     }
 }
