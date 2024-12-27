@@ -316,5 +316,16 @@
             { "kode": "BYU7H", "produk": "Kuota by.U 5 GB 7 HARI", "harga": "20.000" }
             
         ]
+    },
+    "byu_data_bulanan": {
+        "judul":"Daftar Harga by.U Data Bulanan",
+        "data": [
+            { "kode": "BYU4", "produk": "Kuota by.U 4 GB 30 HARI", "harga": "17.000" },
+            { "kode": "BYU9", "produk": "Kuota by.U 9 GB 30 HARI", "harga": "28.000" },
+            { "kode": "BYU14", "produk": "Kuota by.U 14 GB 30 HARI", "harga": "38.000" },
+            { "kode": "BYU20", "produk": "Kuota by.U 20 GB 30 HARI", "harga": "48.000" }
+            
+        ]
     }
 }
+
