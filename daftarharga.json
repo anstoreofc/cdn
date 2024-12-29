@@ -382,7 +382,7 @@
             
         ]
     },
-      "indosat_freedom": {
+      "indosat_freedom_internet": {
         "judul":"Daftar Harga Indosat Freedom",
         "data": [
             { "kode": "ID3", "produk": "Indosat Freedom 3 GB 28 Hari", "harga": "21.000" },
